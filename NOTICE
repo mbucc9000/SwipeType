@@ -1,0 +1,4 @@
+SwipeType's word list (STLexiconData.c) is derived from wordfreq by Robyn Speer
+(https://github.com/rspeer/wordfreq), whose data is licensed CC BY-SA 4.0
+(https://creativecommons.org/licenses/by-sa/4.0/). The derived list is shared under the same
+license. Regenerate it with tools/make_lexicon.py.

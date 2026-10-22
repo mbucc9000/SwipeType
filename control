@@ -1,0 +1,10 @@
+Package: com.mbucc9000.swipetype
+Name: SwipeType
+Version: 2.0.0
+Architecture: iphoneos-arm
+Description: Swipe typing for the stock keyboard. Slide across a word's letters and lift.
+Author: mbucc9000
+Maintainer: mbucc9000
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.mbucc9000.keytick (<< 4.0.0)
